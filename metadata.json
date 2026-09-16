@@ -1,0 +1,6 @@
+{
+  "name": "Néhémie Business",
+  "description": "Agence digitale et technologique : création de sites web, applications Android, logiciels, design graphique et solutions pour entreprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
